@@ -25,7 +25,6 @@ public class Program {
 				System.out.print("Origem: ");
 				ChessPosition source = UI.readChessPosition(scan);
 			
-				System.out.println();
 				System.out.print("Destino: ");
 				ChessPosition target = UI.readChessPosition(scan);
 				
